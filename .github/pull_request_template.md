@@ -2,11 +2,11 @@
 
 You must title your PR like this:
 
-Region | Cohort | FirstName LastName | Sprint | Assignment Title
+Cohort | FirstName LastName | Week | Assignment Title
 
 For example,
 
-London | 25-ITP-May | Carol Owen | Sprint 1 | Alarm Clock
+ITP-2025-1 | Carol Owen | Week 1 | Alarm Clock
 
 Fill in the template below - remove any sections that don't apply.
 
